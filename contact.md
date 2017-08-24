@@ -11,7 +11,7 @@ If you are interested in collaboration or you just want to say hi, please fill o
 <form action="https://getsimpleform.com/messages?form_api_token=18caf323737af91bc17ddba2b7169b60" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
 
-  <input type='hidden' name='redirect_to' value="https://clancyfogarty.github.io/thank-you/" />
+  <input type='hidden' name='redirect_to' value='http://clancyfogarty.com/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
