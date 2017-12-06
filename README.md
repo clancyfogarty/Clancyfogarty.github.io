@@ -1,15 +1,8 @@
-# Portfolio Kami Theme
-## Based on Type Theme
+# Clancy Fogarty Portfolio
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+This portfolio houses my Github projects as well as some of my recent Cyber Security school assignments that I have completed for my Master degree.
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+I can be contacted at clancyfogarty@gmail.com
 
-## Get Started
 
-[Demo](http://madebymunsters.github.io/Lannister/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+![Clancy Fogarty Portfolio](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
